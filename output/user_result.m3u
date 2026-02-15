@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/vincent-Lvys/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.1.110:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-15 16:00:09
-url
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.10:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-15 16:11:15
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="http://10.1.0.10:5180/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
